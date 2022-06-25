@@ -33,7 +33,7 @@ This is a telegram bot writen with pyrogram for leeching files on the internet t
 # HEROKU 
 click the button and
 Enter the valus
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/meliodas-demonking/TG-Lazy-Leech-Bot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Bot Commands
 
